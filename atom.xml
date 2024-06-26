@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ggnote.onrender.com</id>
+    <title>一只南风的笔记</title>
+    <updated>2024-06-26T10:08:50.711Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ggnote.onrender.com"/>
+    <link rel="self" href="https://ggnote.onrender.com/atom.xml"/>
+    <subtitle>珍惜所有的不期而遇，看淡所有的不辞而别</subtitle>
+    <logo>https://ggnote.onrender.com/images/avatar.png</logo>
+    <icon>https://ggnote.onrender.com/favicon.ico</icon>
+    <rights>All rights reserved 2024, 一只南风的笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://ggnote.onrender.com/post/about/</id>
+        <link href="https://ggnote.onrender.com/post/about/">
+        </link>
+        <updated>2023-07-31T08:58:18.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>欢迎来到一只南风的笔记站点！嗯，就是欢迎...没啦😂🤣🤣<br>
+本站点会记录分享自己的一些小事🙌🤝</p>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>欢迎来到一只南风的笔记站点！嗯，就是欢迎...没啦😂🤣🤣<br>
+本站点会记录分享自己的一些小事🙌🤝</p>
+]]></content>
+    </entry>
+</feed>
