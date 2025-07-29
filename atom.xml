@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://note.badwind824.eu.org</id>
+    <title>一只南风的动态</title>
+    <updated>2025-07-29T12:34:37.821Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://note.badwind824.eu.org"/>
+    <link rel="self" href="https://note.badwind824.eu.org/atom.xml"/>
+    <subtitle>珍惜所有的不期而遇，看淡所有的不辞而别</subtitle>
+    <logo>https://note.badwind824.eu.org/images/avatar.png</logo>
+    <icon>https://note.badwind824.eu.org/favicon.ico</icon>
+    <rights>All rights reserved 2025, 一只南风的动态</rights>
+    <entry>
+        <title type="html"><![CDATA[玩二刺螈玩的🙄🙄]]></title>
+        <id>https://note.badwind824.eu.org/IQ0/</id>
+        <link href="https://note.badwind824.eu.org/IQ0/">
+        </link>
+        <updated>2024-07-08T08:40:28.000Z</updated>
+    </entry>
+</feed>
